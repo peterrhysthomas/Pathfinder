@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite errors="0" failures="0" hostname="Peter-Thomass-MacBook-Air.local" name="PathfinderTests" tests="1" time="0.056" timestamp="2012-06-25T21:12:45">
-  <properties />
-  <testcase classname="PathfinderTests" name="shouldReturnAMoveGivenAGridAsAnArgument" time="0.029" />
-  <system-out><![CDATA[E
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

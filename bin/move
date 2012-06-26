@@ -1,6 +1,0 @@
-#!/usr/bin/env groovy
-def param
-if (args== null) param = []
-else param = args[0]
-def pathfinder = new Pathfinder()
-pathfinder.move(param)
